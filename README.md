@@ -6,7 +6,7 @@
 
   
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Javascript;&font=Fira%20Code&center=true&width=440&height=45&color=2C3E50&vCenter=true&size=22)](https://git.io/typing-svg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Javascript;&font=Fira%20Code&center=true&width=440&height=45&color=2C3E50&vCenter=true&size=22)](https://git.io/typing-svg)
   
 
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/anndresrodriguez/"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100"/></a>
+  <a href="https://www.linkedin.com/in/anndresrodriguez/" target="_blank"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:andresjoelcr@deemail.com"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="100"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
