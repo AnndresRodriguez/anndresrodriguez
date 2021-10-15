@@ -6,7 +6,7 @@
 
   
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Javascript;&font=Fira%20Code&center=true&width=440&height=45&color=2C3E50&vCenter=true&size=22)](https://git.io/typing-svg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Javascript;&font=Fira%20Code&center=true&width=440&height=45&color=2C3E50&vCenter=true&size=22)](https://git.io/typing-svg)
   
 
 
