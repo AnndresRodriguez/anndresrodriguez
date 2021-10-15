@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anndresrodriguez/" target="_blank"><img width="32px" alt="linkedin" title="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:andresjoelcr@deemail.com"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="100"/></a>
+  <a href="mailto:andresjoelcr@gmail.com"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="100"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
