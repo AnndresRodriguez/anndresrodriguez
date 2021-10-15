@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
 </h2>
 
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Frontend%20Javascript;&font=Fira%20Code&center=true&width=440&height=45&color=2C3E50&vCenter=true&size=22"></a>
+</p>
+
 <p align="center">¡Por aquí me puedes contactar!</p>
 
 <p align="center">
