@@ -32,13 +32,19 @@
 
 
 ## 📘 Mis proyecto personal mas reciente
+<table>
+<tr>
+<td>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/23d9ecb2-1897-45cb-b6f6-613a142b0da8" />
+</td>
+<td>
+<a href="https://github.com/AnndresRodriguez/dashboard" target="_blank">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anndresrodriguez&repo=dashboard&theme=react&bg_color=2C3E50&title_color=FFF&icon_color=F8D866&hide_border=true&show_icons=true" alt="dashboard">
+</a>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <a href="https://github.com/AnndresRodriguez/dashboard" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anndresrodriguez&repo=dashboard&theme=react&bg_color=2C3E50&title_color=FFF&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22dashboard"></a>
-  <a href="https://github.com/AnndresRodriguez/qrclass-frontend" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anndresrodriguez&repo=qrclass-frontend&theme=react&bg_color=2C3E50&title_color=FFF&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22qrclass-frontend"></a>
-  <a href="https://github.com/AnndresRodriguez/qrclass-backend" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anndresrodriguez&repo=qrclass-backend&theme=react&bg_color=2C3E50&title_color=FFF&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22qrclass-backend"></a>
-  
-</p>
 
 <p align="left">
   <a href="https://github.com/anndresrodriguez?tab=repositories&sort=stargazers"><img alt="Todos los Repositorios" title="Todos los Repositorios" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
